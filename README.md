@@ -1,18 +1,18 @@
 # 🚀 FastAPI Course Platform
 
-This project is built using **FastAPI** as part of my internship training.
+This project is developed using **FastAPI** as part of my internship training at Innomatics Research Labs.
 
 It simulates a real-world **Online Course Platform** where users can manage courses, search, filter, sort, and enroll.
 
 ---
 
-## 📌 Project Features
+## 📌 Features
 
 ### 🔹 Core Features
 
-* REST API development using FastAPI
+* REST APIs using FastAPI
 * Pydantic validation
-* CRUD operations (Create, Read, Update, Delete)
+* CRUD operations
 * Course management system
 
 ### 🔹 Advanced Features
@@ -20,7 +20,7 @@ It simulates a real-world **Online Course Platform** where users can manage cour
 * 🔍 Search functionality
 * 🔄 Sorting (price, rating)
 * 📄 Pagination
-* 🧠 Filter API (title, instructor, category)
+* 🎯 Filter API (title, instructor, category)
 * 🧠 Combined browsing API (search + sort + pagination)
 
 ---
@@ -28,12 +28,12 @@ It simulates a real-world **Online Course Platform** where users can manage cour
 ## 🧠 Concepts Covered
 
 * FastAPI framework
-* Pydantic models & validation
+* Pydantic models
 * API design
 * CRUD operations
 * Query parameters
 * Search, Sorting, Pagination
-* Multi-step workflows (Wishlist & Enrollment)
+* Workflow implementation (Wishlist & Enrollment)
 
 ---
 
@@ -91,30 +91,29 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-All API outputs are tested using Swagger UI and stored in the screenshots folder.
+Swagger UI outputs are stored in the **screenshots/** folder.
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Objective
 
-To build a real-world backend system using FastAPI demonstrating API design, backend logic, and workflow implementation.
+To build a real-world backend system demonstrating API development, backend logic, and workflow implementation using FastAPI.
 
 ---
 
 ## 🙌 Acknowledgment
 
-Grateful for the learning opportunity at **Innomatics Research Labs**.
+Thanks to **Innomatics Research Labs** for guidance and support.
 
 ---
 
-## 🔗 Author
+## 👩‍💻 Author
 
-**Name:** Srinidhi Kasam
-**Project:** FastAPI Course Platform
-**Internship:** FastAPI Internship
+**Srinidhi Kasam**
+FastAPI Internship Project
 
 ---
 
 ## ⭐ Final Note
 
-This project demonstrates my understanding of backend development and API design using FastAPI.
+This project showcases my understanding of backend development and API design using FastAPI.
