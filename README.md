@@ -110,8 +110,10 @@ Grateful for the learning opportunity at **Innomatics Research Labs**.
 
 ## 👩‍💻 Author
 
-**Srinidhi Kasam**
-FastAPI Internship Project
+**Name:** Srinidhi Kasam  
+**Project:** FastAPI Course Platform  
+**Internship:** FastAPI Internship  
+**Guidance under:** @Innomatics Research Labs
 
 ---
 
