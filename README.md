@@ -37,15 +37,19 @@ The project simulates a real-world **Online Course Platform** with course manage
 - Search, Sorting, Pagination
 - Error handling using HTTPException
 
----
-
 ## 🗂️ Project Structure
+
+
 fastapi-course-platform/
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
 └── screenshots/
+
+
+---
+
 ## ⚙️ Installation & Run
 
 ### 1️⃣ Install dependencies
@@ -53,7 +57,7 @@ fastapi-course-platform/
 pip install -r requirements.txt
 2️⃣ Run server
 uvicorn main:app --reload
-Open Swagger UI
+3️⃣ Open Swagger UI
 http://127.0.0.1:8000/docs
 📊 API Endpoints
 📚 Course APIs
@@ -79,7 +83,8 @@ POST /courses
 PUT /courses/{course_id}
 
 DELETE /courses/{course_id}
-🎯 Workflow APIs
+
+❤️ Workflow APIs
 
 POST /wishlist/{course_id}
 
@@ -91,19 +96,21 @@ GET /enrollments/browse
 
 📸 Screenshots
 
-All API outputs are tested in Swagger UI and stored in the screenshots/ folder.
+All API outputs are tested using Swagger UI and stored in the screenshots/ folder.
 
 🎯 Project Objective
 
 To build a real-world backend system using FastAPI demonstrating:
 
-API design
+API development
 
-Backend logic
+Backend logic implementation
 
 Data handling
 
-Workflow implementation
+Workflow creation
+
+Clean API design
 
 🙌 Acknowledgment
 
@@ -112,6 +119,9 @@ Grateful for the learning opportunity at Innomatics Research Labs.
 🔗 Author
 
 Name: Srinidhi Kasam
-Project: FastAPI Online Course Platform
-Internship: FastAPI / GenAI Internship
-Guidance under: Innomatics Research Labs
+Project: FastAPI Course Platform
+Internship: FastAPI Internship
+Guidance: Innomatics Research Labs
+
+---
+
