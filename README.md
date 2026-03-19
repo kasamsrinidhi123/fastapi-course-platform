@@ -1,8 +1,8 @@
 # 🚀 FastAPI Course Platform
 
-This project is developed using **FastAPI** as part of my internship training at Innomatics Research Labs.
+This project is developed using **FastAPI** as part of my internship training at **Innomatics Research Labs**.
 
-It simulates a real-world **Online Course Platform** where users can manage courses, search, filter, sort, and enroll.
+It simulates a real-world **Online Course Platform** where users can manage courses, search, filter, sort, and enroll in courses.
 
 ---
 
@@ -12,12 +12,12 @@ It simulates a real-world **Online Course Platform** where users can manage cour
 
 * REST APIs using FastAPI
 * Pydantic validation
-* CRUD operations
+* CRUD operations (Create, Read, Update, Delete)
 * Course management system
 
 ### 🔹 Advanced Features
 
-* 🔍 Search functionality
+* 🔍 Search functionality (case-insensitive)
 * 🔄 Sorting (price, rating)
 * 📄 Pagination
 * 🎯 Filter API (title, instructor, category)
@@ -28,12 +28,13 @@ It simulates a real-world **Online Course Platform** where users can manage cour
 ## 🧠 Concepts Covered
 
 * FastAPI framework
-* Pydantic models
-* API design
+* Pydantic models & validation
+* API design and structure
 * CRUD operations
 * Query parameters
 * Search, Sorting, Pagination
-* Workflow implementation (Wishlist & Enrollment)
+* Multi-step workflows (Wishlist → Enrollment)
+* Error handling using HTTPException
 
 ---
 
@@ -91,19 +92,19 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-Swagger UI outputs are stored in the **screenshots/** folder.
+All API outputs are tested using Swagger UI and stored in the **screenshots/** folder.
 
 ---
 
-## 🎯 Objective
+## 🎯 Project Objective
 
-To build a real-world backend system demonstrating API development, backend logic, and workflow implementation using FastAPI.
+To build a real-world backend system using FastAPI demonstrating API design, backend logic, data handling, and workflow implementation.
 
 ---
 
 ## 🙌 Acknowledgment
 
-Thanks to **Innomatics Research Labs** for guidance and support.
+Grateful for the learning opportunity at **Innomatics Research Labs**.
 
 ---
 
