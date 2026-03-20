@@ -1,4 +1,4 @@
-# 🚀 FastAPI Course Platform
+# 🚀 FastAPI Online Course Platform
 
 This project is developed using **FastAPI** as part of my internship training at **Innomatics Research Labs**.
 
@@ -111,7 +111,7 @@ Grateful for the learning opportunity at **Innomatics Research Labs**.
 ## 👩‍💻 Author
 
 **Name:** Srinidhi Kasam  
-**Project:** FastAPI Course Platform  
+**Project:** FastAPI Online Course Platform  
 **Internship:** FastAPI Internship  
 **Guidance under:** @Innomatics Research Labs
 
