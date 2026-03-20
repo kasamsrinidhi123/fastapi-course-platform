@@ -81,7 +81,7 @@ http://127.0.0.1:8000/docs
 * PUT /courses/{course_id}
 * DELETE /courses/{course_id}
 
-### ❤️ Workflow APIs
+### Workflow APIs
 
 * POST /wishlist/{course_id}
 * POST /enroll/{course_id}
